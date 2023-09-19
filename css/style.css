@@ -154,3 +154,27 @@ hr {
     padding: 7px;
     font-size: small;
 }
+
+.bottone-rosa {
+    width: 71px;
+    height: 29px;
+    border-radius: 12px;
+    background-color: #D563A0;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    font-size: small;
+}
+
+.bottone-verdechiaro {
+    width: 71px;
+    height: 29px;
+    border-radius: 12px;
+    background-color: #B1C729;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    font-size: small;
+}
