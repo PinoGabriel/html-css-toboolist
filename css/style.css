@@ -14,7 +14,7 @@
 }
 
 body {
-    background-color: lightgrey;
+    background-color: #f6f8f9;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -71,7 +71,7 @@ header {
 }
 
 hr {
-    border: 1px solid lightgrey;
+    border: 1px solid #f6f8f9;
 }
 
 .aa {
