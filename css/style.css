@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    margin-top: 3%;
+    border-radius: 2px;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+header {
+    background-color: white;
+    height: 90px;
+}
+
+.space {
+    margin-left: 25px;
+    padding-top: 13px;
+}
+
+.logo, .titolo {
+    display: inline-block;
+}
+
+.logo {
+    width: 66px;
+}
+
+.titolo {
+    vertical-align: 24px;
+    font-size: 42px;
+}
+
+.bottoni {
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.bottone1 {
+    width: 94px;
+    height: 34px;
+    border-radius: 8px;
+    background-color: #47A9E8;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 7px;
+}
+
+.bottone2 {
+    width: 94px;
+    height: 34px;
+    border-radius: 8px;
+    display: inline-block;
+    text-align: center;
+    color: lightgrey;
+    padding: 6px;
+    border: 1px solid lightgrey;
+}
+
+hr {
+    border: 1px solid lightgrey;
+}
+
+.aa {
+    margin-left: 70px;
+    margin-top: 34px;
+}
+
+.check {
+    border: 1px solid #63BEA9;
+    width: 20px;
+    height: 20px;
+    border-radius: 25px;
+    color: #63BEA9;
+    font-size: 13px;
+    padding-left: 4px;
+    display: inline-block;
+}
+
+.testo {
+    display: inline-block;
+}
+
+.spazio {
+    margin-top: 10px;
+}
+
+.bottone-azzurro {
+    width: 71px;
+    height: 29px;
+    border-radius: 12px;
+    background-color: #47A9E8;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    font-size: small;
+}
+
+.bottone-viola {
+    width: 71px;
+    height: 29px;
+    border-radius: 12px;
+    background-color: #9C72E3;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    font-size: small;
+}
+
+.cross {
+    border: 1px solid red;
+    width: 20px;
+    height: 20px;
+    border-radius: 25px;
+    color: red;
+    font-size: 13px;
+    padding-left: 4px;
+    display: inline-block;
+}
+
+.bottone-verde {
+    width: 71px;
+    height: 29px;
+    border-radius: 12px;
+    background-color: #63BEA9;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    font-size: small;
+}
+
+.bottone-arancione {
+    width: 71px;
+    height: 29px;
+    border-radius: 12px;
+    background-color: #F39C34;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    font-size: small;
+}
