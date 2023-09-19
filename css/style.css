@@ -99,7 +99,7 @@ hr {
 }
 
 .bottone-azzurro {
-    width: 71px;
+    width: 65px;
     height: 29px;
     border-radius: 12px;
     background-color: #47A9E8;
@@ -107,11 +107,11 @@ hr {
     text-align: center;
     color: white;
     padding: 7px;
-    font-size: small;
+    font-size: 11px;
 }
 
 .bottone-viola {
-    width: 75px;
+    width: 66px;
     height: 29px;
     border-radius: 12px;
     background-color: #9C72E3;
@@ -119,7 +119,7 @@ hr {
     text-align: center;
     color: white;
     padding: 7px;
-    font-size: small;
+    font-size: 11px;
 }
 
 .cross {
@@ -134,7 +134,7 @@ hr {
 }
 
 .bottone-verde {
-    width: 88px;
+    width: 71px;
     height: 29px;
     border-radius: 12px;
     background-color: #63BEA9;
@@ -142,11 +142,11 @@ hr {
     text-align: center;
     color: white;
     padding: 7px;
-    font-size: small;
+    font-size: 11px;
 }
 
 .bottone-arancione {
-    width: 71px;
+    width: 55px;
     height: 29px;
     border-radius: 12px;
     background-color: #F39C34;
@@ -154,11 +154,11 @@ hr {
     text-align: center;
     color: white;
     padding: 7px;
-    font-size: small;
+    font-size: 11px;
 }
 
 .bottone-rosa {
-    width: 71px;
+    width: 62px;
     height: 29px;
     border-radius: 12px;
     background-color: #D563A0;
@@ -166,11 +166,11 @@ hr {
     text-align: center;
     color: white;
     padding: 7px;
-    font-size: small;
+    font-size: 11px;
 }
 
 .bottone-verdechiaro {
-    width: 71px;
+    width: 53px;
     height: 29px;
     border-radius: 12px;
     background-color: #B1C729;
@@ -178,5 +178,5 @@ hr {
     text-align: center;
     color: white;
     padding: 7px;
-    font-size: small;
+    font-size: 11px;
 }
